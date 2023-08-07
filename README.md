@@ -35,5 +35,11 @@ T. Y. Zhang and C. Y. Suen. 1984. [A fast parallel algorithm for thinning digita
 |------|TR |ET(s) |SM |CM |
 |Duck |0.998889 |18.152677 |10 |6|
 
+- TR：Thinning rate, The degree of thinness of the image.
+- ET：Execution Time ,The real time cost ,the execution time of thinning process in second.
+- SM：Sensitivity Measurement, Measure the noise immunity performance of the contour bobbin.
+- CM：Connectivity Measurement, Measuring the connectivity of the output skeleton computes disconnected lines or discrete points that should not appear, 
+which makes what would otherwise be the same object be considered different objects.
+
 [A new thinning algorithm for binary images]:https://ieeexplore.ieee.org/document/7233099/references#references
 [A fast parallel algorithm for thinning digital patterns]:https://doi.org/10.1145/357994.358023
