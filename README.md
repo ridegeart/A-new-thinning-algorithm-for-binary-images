@@ -25,7 +25,7 @@ T. Y. Zhang and C. Y. Suen. 1984. [A fast parallel algorithm for thinning digita
 (3) 𝐵(𝑃1) = ∑ 𝑃𝑖𝑖9𝑖𝑖=2 is the number of 1 (black grid) in 𝑃1、𝑃2、𝑃3 … 𝑃8.   
 (4) 𝐶(𝑃𝑃1) =¬𝑃2∧ (𝑃3∨𝑃4) + ¬𝑃4∧ (𝑃5∨𝑃6) + ¬𝑃6∧ (𝑃7∨𝑃8) + ¬𝑃8∧ (𝑃9∨𝑃2) is the "1" in the 8-connected neighborhood of the number of connected 8-components.  
 ## Result
-|Image |ZS algorithm | | | |
+|Image |ZS algorithm |--- |--- |--- |
 |------|--------|--------|
 |------|TR |ET(s) |SM |CM |
 |Duck |0.9985342 |34.235636 |4 |4 |
