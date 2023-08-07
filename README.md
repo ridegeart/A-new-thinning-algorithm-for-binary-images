@@ -29,7 +29,10 @@ T. Y. Zhang and C. Y. Suen. 1984. [A fast parallel algorithm for thinning digita
 |------|--------|--------|--------|--------|
 |------|TR |ET(s) |SM |CM |
 |Duck |0.9985342 |34.235636 |4 |4 |
-|Image |new thinning algorithm ||||
+
+|Image |new thinning algorithm |--- |--- |--- |
+|------|--------|--------|--------|--------|
+|------|TR |ET(s) |SM |CM |
 |Duck |0.998889 |18.152677 |10 |6|
 [A new thinning algorithm for binary images]:https://ieeexplore.ieee.org/document/7233099/references#references
 [A fast parallel algorithm for thinning digital patterns]:https://doi.org/10.1145/357994.358023
